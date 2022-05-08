@@ -450,3 +450,4 @@ class Plugin //Same as Rotation class
     void ExportObject(string ObjectName, object Object);
     //Export objects that can be imported by other plugins and rotations using Aimsharp.ImportObject
 }
+
